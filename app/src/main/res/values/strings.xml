@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirstTeacher</string>
+    <string name="description">Let your kids discover shapes, colors and numbers in a fun way and compete who gets the biggest score</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_learn">LearnActivity</string>
+    <string name="facebook_app_id">161994957536455</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_parental_contral">ParentalContral</string>
+</resources>
